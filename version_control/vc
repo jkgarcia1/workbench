@@ -1,0 +1,8 @@
+#!/bin/bash
+# Commit all files to Git repo
+
+git add -A ~/Projects/workbench &&
+git commit -m"$*" &&
+git pull &&
+git push 
+
