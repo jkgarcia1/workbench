@@ -1,0 +1,6 @@
+Remember path setting trick
+export PATH=~/Projects/workbench/version_control:.:/Users/seaman/Projects/workbe
+Test file reading
+Test edit file
+Push code
+Generate pull request
